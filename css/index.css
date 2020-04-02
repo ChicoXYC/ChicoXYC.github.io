@@ -1877,7 +1877,7 @@ blockquote footer cite:before {
 }
 #aside_content .card-info .card-info-data > .card-info-data-item {
   display: inline-block;
-  width: 33.3%;
+  width: 50%;
 }
 #aside_content .card-info .card-info-data > .card-info-data-item a .headline {
   display: block;
